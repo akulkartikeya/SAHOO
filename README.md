@@ -4,7 +4,7 @@
 
 ## And
 
-<img src= "./Andsahoo img.jpg"/>
+<img src= "./AndSCR.png.jpg"/>
 
 ## Xor
 
